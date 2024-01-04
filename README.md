@@ -12,7 +12,7 @@
   Then you need to open your browser and make shure, the [draw the perfect circle](https://neal.fun/perfect-circle/) page is active.
   
   After that, start the python script. 
-  It will automatically switch to your browser and do two kaps around the central dot
+  It will automatically switch to your browser and do two laps around the central dot
 
   BUT MAKE SHURE TO PRESS THE LEFT MOUSE BUTTON.
   Unfortunately I couldn't get that to work.
