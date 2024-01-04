@@ -7,3 +7,5 @@
   To automate this process I wrote this script.
 
 ## Result
+
+  ![the score](perfect_circle.jpg)
