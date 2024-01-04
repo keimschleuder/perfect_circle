@@ -8,4 +8,4 @@
 
 ## Result
 
-  ![the score](perfect_circle.jpg)
+  ![the score](perfect_circle.png)
