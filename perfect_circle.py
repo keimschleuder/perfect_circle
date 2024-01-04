@@ -2,20 +2,21 @@ import pyautogui as gui
 import math
 import time
 
-gui.PAUSE = 0.0000001
+gui.PAUSE = 0.0000001   # The delay between two actions of pyautogui
 
-# move to browser
 gui.keyDown('win')
-gui.press('1')
+gui.press('1')      # Your browser window number
 gui.keyUp('win')
 
-# generate circle with radius of 200 pixels around 990, 530
 center = {
-    "X": 990, 
-    "Y": 530
+    "X": 990, # X coordinate of the center
+    "Y": 530  # Y coordinate of the center
 }
-radius = 400
-num_points = 10000
+radius = 400        # radius
+num_points = 10000  # number of points
+
+# ---------------
+# Do not touch!
 
 circle_points = []
 for i in range(num_points):
