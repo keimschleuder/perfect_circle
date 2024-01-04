@@ -8,4 +8,4 @@
 
 ## Result
 
-  <perfect_circle.png>
+  (/perfect_circle.png)
