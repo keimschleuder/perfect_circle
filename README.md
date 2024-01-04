@@ -8,7 +8,7 @@
 
 ## Usage
 
-  In line of the pythob file, you must take the icon number of your browser and replace the "1".
+  In line 9 of the pythob file, you must take the icon number of your browser and replace the "1".
   Then you need to open your browser and make shure, the [draw the perfect circle](https://neal.fun/perfect-circle/) page is active.
   
   After that, start the python script. 
