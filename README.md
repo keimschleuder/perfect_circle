@@ -21,7 +21,7 @@
 ## In case you are wondering
 
   It is likely, that the score increases, if you add more points to the circle.
-  But if you do so, make sure to minimize the delay. I'll mark the variables you can just changfe in the code.
+  But if you do so, make sure to minimize the delay. I'll mark the variables you can just change them in the code.
 
 ## Result
 
