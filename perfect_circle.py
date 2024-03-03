@@ -2,7 +2,7 @@ import pyautogui as gui
 import math
 import time
 
-gui.PAUSE = 0.0000001   # The delay between two actions of pyautogui
+gui.PAUSE = 0.0000000001   # The delay between two actions of pyautogui
 
 gui.keyDown('win')
 gui.press('1')      # Your browser window number
@@ -12,8 +12,8 @@ center = {
     "X": 989, # X coordinate of the center
     "Y": 587  # Y coordinate of the center
 }
-radius = 400        # radius
-num_points = 10000  # number of points -- 24000 is max
+radius = 500        # radius
+num_points = 20000  # number of points -- 24000 is max
 
 # ---------------
 # Do not touch!
