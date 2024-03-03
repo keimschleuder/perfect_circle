@@ -9,8 +9,8 @@ gui.press('1')      # Your browser window number
 gui.keyUp('win')
 
 center = {
-    "X": 990, # X coordinate of the center
-    "Y": 530  # Y coordinate of the center
+    "X": 989, # X coordinate of the center
+    "Y": 587  # Y coordinate of the center
 }
 radius = 400        # radius
 num_points = 10000  # number of points -- 24000 is max
