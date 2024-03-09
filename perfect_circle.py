@@ -12,8 +12,8 @@ center = {
     "X": 989, # X coordinate of the center
     "Y": 587  # Y coordinate of the center
 }
-radius = 500        # radius
-num_points = 20000  # number of points -- 24000 is max
+radius = 400        # radius
+num_points = 24000  # number of points -- 24000 is max
 
 # ---------------
 # Do not touch!
